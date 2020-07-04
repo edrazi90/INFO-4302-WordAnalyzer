@@ -1,11 +1,11 @@
-# INFO-4302-WordAnalyzer
-A simple word analyzer app developed using React Non-native(Expo-cli)
+# Sample Snack app
 
-Steps in developing:
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
-1.Set up a constructor consist of 'word','consonants', and 'vowels' as the identifier.
-2.Create a function 'AnalyzeWord' and retrieve the data obtained by constructor'word'
-3.Convert the data into the lower case by using 'toLowerChar' constructor.
-4.Use 'For loops' to compare index in the data with the arguments initiated within the function to analyze consonant and vowels.
-5.Pass the analyzed data into the constructor 'character' and 'consonants'.
-6.Display the result in the 'render()'.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
